@@ -1,16 +1,14 @@
 
 # Blue Team Junior Analyst <a href="https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle">(BTJA)</a>
 
+Currently working on this pathway by Security Blue Team... (Feb 10 2026)
+
 <!-- 
 I successfully completed the **Blue Team Junior Analyst (BTJA) pathway**, an open-access certification program. 
 Over several days of focused study, I mastered six foundational cybersecurity domains, demonstrating proficiency in defensive operations and technical analysis.
 -->
 
 <!--
-I spent a few days completing the 6 introductory courses from Security Blue Team for free, earning the Blue Team Junior Analyst certificate.
-I successfully completed the **Blue Team Junior Analyst (BTJA) pathway**, an open-access certification program. 
-Over several days of focused study, I mastered six foundational cybersecurity domains, demonstrating proficiency in defensive operations and technical analysis.
-
 <h2>
 Introduction to Digital Forensics
 </h2>
